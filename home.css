@@ -78,7 +78,7 @@ p {
     top: 105%;
     width: auto;
     left: 0;
-    margin-top: 100px;
+    margin-top: 70px;
     padding: 16px;
     color: white;
     font-weight: bold;
@@ -132,5 +132,16 @@ p {
 
     .logo {
         height: 100px;
+        margin-left: 100px;
+        top: 3%;
+    }
+
+    .caption {
+        font-size: 25px;
+        text-align: center;
+    }
+
+    .top-nav a {
+        font-size: 15px;
     }
 }
